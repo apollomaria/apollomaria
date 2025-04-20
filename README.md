@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">📚  Sou um estudante de Análise e Desenvolvimento de Sistemas de Maringá, Paraná.  <br>🎮  No meu tempo livre, gosto de assistir a filmes e jogar jogos sandbox e roguelike.  </p>
+<p align="left">📚  Sou um estudante de Análise e Desenvolvimento de Sistemas de Maringá, Paraná (🇧🇷).  <br>🎮  No meu tempo livre, gosto de assistir a filmes e jogar jogos sandbox e roguelike.  </p>
 
 ###
 
