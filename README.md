@@ -32,18 +32,16 @@
 <h3 align="left">★ Linguagens de Estudo</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-###
-
-<h3 align="left">★ Minhas Estatísticas </h3>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=apollomaria&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-
-[![Generate snake game](https://github.com/apollomaria/apollomaria/actions/workflows/snake.yml/badge.svg)](https://github.com/apollomaria/apollomaria/actions/workflows/snake.yml)
-
 </div>
 
 ###
+
+![Generate snake game](https://github.com/apollomaria/apollomaria/actions/workflows/snake.yml)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apollomaria/apollomaria/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apollomaria/apollomaria/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/apollomaria/apollomaria/output/github-contribution-grid-snake.svg">
+</picture>
 
