@@ -41,7 +41,7 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=apollomaria&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
-  ![snake animation](https://github.com/<apollomaria>/<apollomaria>/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](snake.yml)
 
 </div>
 
