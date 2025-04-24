@@ -1,17 +1,20 @@
+<h1 align="center">🟢 Olá, meu nome é Apollo Maria!  </h1>
+
+
 <div align="center">
-  
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"/>
 
 ###
-
+<h1>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=800080&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/apollomaria/"> 
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=800080&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  <a href="mailto:apollomscarvalho"> 
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=&color=800080&" height="28" alt="gmail logo"  />
 </div>
 
 ###
 
-
-<h1 align="center">🟣 Olá, meu nome é Apollo Maria! 🟣 </h1>
 
 <p align="center">📗  Sou um aluno de Análise e Desenvolvimento de Sistemas de Maringá, Paraná (🇧🇷).  <br>💚  No meu tempo livre, gosto de assistir a filmes e jogar jogos sandbox e roguelike.  </p>
 
@@ -19,7 +22,7 @@
 
 <div align="center">
 <h3 align="center">🟢 Linguagem de Estudo</h3>
-<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 
 </div>
 
