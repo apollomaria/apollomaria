@@ -1,8 +1,10 @@
 <h1 align="center">🟢 Olá, meu nome é Apollo Maria!  </h1>
 
-
-<div align="center">
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apollomaria/apollomaria/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apollomaria/apollomaria/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/apollomaria/apollomaria/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 <h1>
@@ -32,13 +34,6 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apollomaria&title_color=F0F6FC&text_color=838587&bg_color=0D1117&border_color=0D1117&icon_color=16C60C&locale=pt-br&rank_icon=github&custom_title=🟢&nbsp;Minhas&nbsp;Estatísticas&text_bold=false&ring_color=800080&show_icons=true)
 
-
-<h1 align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apollomaria/apollomaria/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apollomaria/apollomaria/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/apollomaria/apollomaria/output/github-contribution-grid-snake.svg">
-</picture>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=apollomaria&left_color=purple&right_color=green)"  />
