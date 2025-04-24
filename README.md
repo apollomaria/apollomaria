@@ -1,43 +1,42 @@
 <div align="center">
-  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://discord.com/channels/992121936836567131/992121937398595736/1363636195380297878)"  />
-</div>
+  
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"/>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=800080&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
+
+###
+
+
+<h1 align="center">🟣 Olá, meu nome é Apollo Maria! 🟣 </h1>
+
+<p align="center">📗  Sou um aluno de Análise e Desenvolvimento de Sistemas de Maringá, Paraná (🇧🇷).  <br>💚  No meu tempo livre, gosto de assistir a filmes e jogar jogos sandbox e roguelike.  </p>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=apollomaria&"  />
-</div>
-
-###
-
-<h1 align="center">★ Olá, meu nome é Apollo Maria! ★ </h1>
-
-###
-
-<h3 align="left">★  Sobre Mim </h3>
-
-###
-
-<p align="left">📚  Sou um estudante de Análise e Desenvolvimento de Sistemas de Maringá, Paraná (🇧🇷).  <br>🎮  No meu tempo livre, gosto de assistir a filmes e jogar jogos sandbox e roguelike.  </p>
-
-###
-
-<div align="left">
-<h3 align="left">★ Linguagem de Estudo</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+<h3 align="center">🟢 Linguagem de Estudo</h3>
+<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 
 </div>
 
 ###
 
+<h1 align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apollomaria&title_color=F0F6FC&text_color=838587&bg_color=0D1117&border_color=0D1117&icon_color=16C60C&locale=pt-br&rank_icon=github&custom_title=🟢&nbsp;Minhas&nbsp;Estatísticas&text_bold=false&ring_color=800080&show_icons=true)
+
+
+<h1 align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apollomaria/apollomaria/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apollomaria/apollomaria/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/apollomaria/apollomaria/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=apollomaria&left_color=purple&right_color=green)"  />
+</div>
