@@ -25,8 +25,7 @@
 ###
 
 <div align="center">
-<h3 align="center">🟢 Linguagem de Estudo</h3>
-<h3 align="center">🟢 Languages</h3>
+<h3 align="center">🟢 Linguagem de Estudo / Languages </h3>
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 
 </div>
