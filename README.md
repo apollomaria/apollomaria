@@ -1,4 +1,5 @@
 <h1 align="center">🟢 Olá, meu nome é Apollo Maria!  </h1>
+<h1 align="center">🟢 Hi, my name is Apollo Maria!  </h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apollomaria/apollomaria/output/github-contribution-grid-snake-dark.svg">
@@ -19,11 +20,13 @@
 
 
 <p align="center">📗  Sou um aluno de Análise e Desenvolvimento de Sistemas de Maringá, Paraná (🇧🇷).  <br>💚  No meu tempo livre, gosto de assistir a filmes e jogar jogos sandbox e roguelike.  </p>
+<p align="center">📗  I'm an IT student from Maringá, Paraná (🇧🇷).  <br>💚  In my free time, I like to watch movies and play sandbox and roguelike games.  </p>
 
 ###
 
 <div align="center">
 <h3 align="center">🟢 Linguagem de Estudo</h3>
+<h3 align="center">🟢 Languages</h3>
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 
 </div>
